@@ -1,0 +1,8 @@
+batch_size: 128
+learning_rate: 0.001
+is_use_dropout: True
+is_use_bn_conv: True
+is_use_bn_dense: True
+dropout_rate: 0.2
+num_epoch: 400
+num_print_step: 50

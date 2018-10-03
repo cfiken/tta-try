@@ -1,0 +1,7 @@
+*checkpoints
+nohup.out
+.DS_Store
+data
+logs
+mnist_dnn.ipynb
+__pycache__
